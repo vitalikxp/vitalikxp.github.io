@@ -67,3 +67,5 @@
 * 🎮 [Fallout 76](https://store.steampowered.com/app/1151340/Fallout_76/) _(Xbox Series S, 888 ч.)_
 * 💻 [Satellite Odyssey: Prologue](https://store.steampowered.com/app/2579270/Satellite_Odyssey_Prologue/) _(2 ч., 🥇)_
 * 🎮 [Far Cry: New Dawn](https://store.steampowered.com/app/939960/Far_Cry_New_Dawn/) _(Xbox Series S, 37 ч.)_
+* 🎮 [Inscryption](https://store.steampowered.com/app/1092790/Inscryption/) _(Xbox One S, 28 ч.)_
+* 🎮 [Donut County](https://store.steampowered.com/app/702670/Donut_County/) _(Xbox One S, 4 ч.)_
