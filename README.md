@@ -4,8 +4,51 @@
 * 🎻 Symfony
 * 🦫 Bitrix
 
+
 ## Интересы
 Список того что я прочитал, посмотрел, послушал или поиграл в последние годы.
+
+
+### 🎙️ Аудиокниги
+
+#### 2019 год
+* 📗 [Любовь к трем цукербринам](https://www.litres.ru/audiobook/viktor-pelevin/lubov-k-trem-cukerbrinam-11953725/) _(Виктор Пелевин, 13 ч.)_
+* 📙 [Кровь, пот и пиксели. Обратная сторона индустрии видеоигр](https://www.litres.ru/audiobook/dzheyson-shreyer/krov-pot-i-pikseli-obratnaya-storona-industrii-videoigr-42566214/) _(Джейсон Шрейер, 9 ч.)_
+* 📗 [Ведьмак: Последнее желание](https://www.litres.ru/audiobook/andzhey-sapkovskiy/poslednee-zhelanie-37926337/) _(Анджей Сапковский, 11 ч.)_
+* 📗 [Ведьмак: Меч Предназначения](https://www.litres.ru/audiobook/andzhey-sapkovskiy/mech-prednaznacheniya-39832530/) _(Анджей Сапковский, 13 ч.)_
+
+#### 2020 год
+* 📗 [Мор, ученик Смерти](https://www.litres.ru/audiobook/terri-pratchett/mor-uchenik-smerti-29186487/) _(Терри Пратчетт, 9 ч.)_
+* 📗 [Мрачный Жнец](https://www.litres.ru/audiobook/terri-pratchett/mrachnyy-zhnec-23305750/) _(Терри Пратчетт, 10 ч.)_
+* 📗 [Соль музыки](https://www.litres.ru/audiobook/terri-pratchett/sol-muzyki-51366791/) _(Терри Пратчетт, 12 ч.)_
+* 📗 [Дед Хрюкус](https://www.litres.ru/audiobook/terri-pratchett/ded-hrukus-54889291/) _(Терри Пратчетт, 11 ч.)_
+* 📗 [Вторая жизнь Уве](https://www.litres.ru/audiobook/fredrik-bakman/vtoraya-zhizn-uve-24414722/) _(Фредрик Бакман, 12 ч.)_
+
+#### 2021 год
+¯\\\_(ツ)_/¯
+
+#### 2022 год
+* 📗 [Вор времени](https://www.litres.ru/audiobook/terri-pratchett/vor-vremeni-63983391/) _(Терри Пратчетт, 12 ч.)_
+* 📕 [Как учится машина. Революция в области нейронных сетей и глубокого обучения](https://www.litres.ru/audiobook/yan-lekun/kak-uchitsya-mashina-revoluciya-v-oblasti-neyronnyh-setey-i-glub-66367574/) _(Ян Лекун, 9 ч.)_
+* 📙 [Повелители DOOM](https://www.litres.ru/audiobook/devid-kushner/poveliteli-doom-kak-dva-parnya-sozdali-kultovyy-shuter-i-ras-65715974/) _(Дэвид Кушнер, 15 ч.)_
+* 📗 [Канун дня всех святых](https://www.litres.ru/audiobook/rey-bredberi/kanun-dnya-vseh-svyatyh-68079194/) _(Рэй Брэдбери, 4 ч.)_
+
+#### 2023 год
+* 📙 [Fallout. Хроники создания легендарной саги](https://www.litres.ru/audiobook/ervan-lafleriel/fallout-hroniki-sozdaniya-legendarnoy-sagi-69088090/) _(Эрван Лафлериэль, 8 ч.)_
+* 📗 [Сказки роботов](https://www.litres.ru/audiobook/stanislav-lem/skazki-robotov-23887885/?art=23887885) _(Станислав Лем, 5 ч.)_
+* 📗 [Цвет волшебства](https://www.litres.ru/audiobook/terri-pratchett/cvet-volshebstva-23578275/) _(Терри Пратчетт, 8 ч.)_
+* 📗 [Безумная звезда](https://www.litres.ru/audiobook/terri-pratchett/bezumnaya-zvezda-25014268/) _(Терри Пратчетт, 8 ч.)_
+* 📗 [Посох и шляпа](https://www.litres.ru/audiobook/terri-pratchett/posoh-i-shlyapa-24509157/) _(Терри Пратчетт, 10 ч.)_
+* 📗 [Эрик](https://www.litres.ru/audiobook/terri-pratchett/erik-25385299/) _(Терри Пратчетт, 5 ч.)_
+* 📗 [Интересные времена](https://www.litres.ru/audiobook/terri-pratchett/interesnye-vremena-65087291/) _(Терри Пратчетт, 11 ч.)_
+* 📗 [Пикник на обочине](https://www.litres.ru/audiobook/arkadiy-i-boris-strugackie/piknik-na-obochine-3300905/) _(Аркадий и Борис Стругацкие, 7 ч.)_
+
+#### 2024 год
+* 📗 [Мы – Легион. Мы – Боб](https://www.litres.ru/audiobook/dennis-teylor-30702511/my-legion-my-bob-66018881/) _(Деннис Тейлор, 11 ч.)_
+* 📗 [Потому что нас много](https://www.litres.ru/audiobook/dennis-teylor-30702511/potomu-chto-nas-mnogo-68662321/) _(Деннис Тейлор, 9 ч.)_
+* 📗 [Все эти миры](https://www.litres.ru/audiobook/dennis-teylor-30702511/vse-eti-miry-69171949/) _(Деннис Тейлор, 9 ч.)_
+* 📗 [Еще один великолепный МИФ](https://www.litres.ru/audiobook/robert-asprin/esche-odin-velikolepnyy-mif-19818325/) _(Роберт Асприн, 6 ч.)_
+
 
 ### 🕹️ Видеоигры
 
