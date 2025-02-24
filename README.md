@@ -97,6 +97,7 @@
 * 🎮 [Halo 5: Guardians](https://www.xbox.com/ru-RU/games/store/halo-5-guardians/BRRC2BP0G9P0/0001) _(Xbox Series S, 13 ч.)_
 * 🎮 [Kill It With Fire](https://store.steampowered.com/app/1179210/Kill_It_With_Fire/) _(Xbox Series S, 9 ч.)_
 * 🎮 [Watch_Dogs2](https://store.steampowered.com/app/447040/Watch_Dogs_2/) _(Xbox Series S, 30 ч.)_
+* 🎮 [Marvel's Guardians of the Galaxy](https://store.steampowered.com/app/1088850/Marvels_Guardians_of_the_Galaxy/) _(Xbox Series S, 21 ч.)_
 
 #### 2023 год
 * 🎮 [Destroy All Humans! 2 - Reprobed](https://store.steampowered.com/app/1266700/Destroy_All_Humans_2__Reprobed/) _(Xbox Series S, 21 ч.)_
