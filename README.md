@@ -9,6 +9,17 @@
 Список того что я прочитал, посмотрел, послушал или поиграл в последние годы.
 
 
+### 📚 Книги
+
+#### 2024 год
+* 📕 [Грокаем алгоритмы](https://www.piter.com/product/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyuschih-2) _(Адитья Бхаргава, 288 стр.)_
+* 📕 [Грокаем стриминг](https://www.piter.com/collection/all/product/grokaem-striming) _(Джош Фишер, Нин Ван, 288 стр.)_
+* 📕 [Symfony 6: Быстрый старт](https://symfony.com/doc/6.4/the-fast-track/ru/index.html) _(Fabien Potencier, 358 стр.)_
+
+#### 2025 год
+* 📕 [Podman в действии](https://www.piter.com/collection/devops/product/podman-v-deystvii) _(Дэниэл Уолш, 352 стр.)_
+
+
 ### 🎙️ Аудиокниги
 
 #### 2019 год
