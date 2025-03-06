@@ -18,6 +18,7 @@
 
 #### 2025 год
 * 📕 [Podman в действии](https://www.piter.com/collection/devops/product/podman-v-deystvii) _(Дэниэл Уолш, 352 стр.)_
+* 📕 [Изучаем DDD – предметно-ориентированное проектирование](https://bhv.ru/product/izuchaem-ddd-predmetno-orientirovannoe-proektirovanie/) _(Влад Хононов, 320 стр.)_
 
 
 ### 🎙️ Аудиокниги
