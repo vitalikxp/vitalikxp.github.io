@@ -4,4 +4,15 @@ plugins:
   - jekyll-remote-theme
 minima:
   skin: auto
-  show_rss: false
+  date_format: "%d.%m.%Y %H:%M"
+  hide_site_feed_link: false
+  social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/vitalikxp"
+    - title: Steam
+      icon: steam
+      url: "https://steamcommunity.com/id/vitalikxp/"
+    - title: XBOX
+      icon: xbox
+      url: "https://www.xbox.com/ru-RU/play/user/Vitalik%20Dev"
