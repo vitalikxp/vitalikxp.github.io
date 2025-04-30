@@ -5,7 +5,7 @@ plugins:
 minima:
   skin: auto
   date_format: "%d.%m.%Y %H:%M"
-  hide_site_feed_link: false
+  hide_site_feed_link: true
   social_links:
     - title: GitHub
       icon: github
