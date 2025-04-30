@@ -1,2 +1,4 @@
-theme: jekyll-theme-cayman
 title: Виталик Широков
+theme: minima
+minima:
+  skin: auto
