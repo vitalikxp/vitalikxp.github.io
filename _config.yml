@@ -4,3 +4,4 @@ plugins:
   - jekyll-remote-theme
 minima:
   skin: auto
+  show_rss: false
