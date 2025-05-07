@@ -10,9 +10,9 @@ minima:
     - title: GitHub
       icon: github
       url: "https://github.com/vitalikxp"
+    - title: XBOX
+      icon: xbox
+      url: "https://xbox.com/play/user/Vitalik+Dev"
     - title: Steam
       icon: steam
       url: "https://steamcommunity.com/id/vitalikxp/"
-    - title: XBOX
-      icon: xbox
-      url: "https://www.xbox.com/ru-RU/play/user/Vitalik%20Dev"
