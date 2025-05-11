@@ -19,6 +19,7 @@
 #### 2025 год
 * 📕 [Podman в действии](https://www.piter.com/collection/devops/product/podman-v-deystvii) _(Дэниэл Уолш, 352 стр.)_
 * 📕 [Изучаем DDD – предметно-ориентированное проектирование](https://bhv.ru/product/izuchaem-ddd-predmetno-orientirovannoe-proektirovanie/) _(Влад Хононов, 320 стр.)_
+* 📕 [Unity в действии](https://www.piter.com/collection/programmirovanie-igr/product/unity-v-deystvii-multiplatformennaya-razrabotka-na-c-3-e-mezhd-izdanie) _(Джозеф Хокинг, 448 стр.)_
 
 
 ### 🎙️ Аудиокниги
