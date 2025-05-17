@@ -6,7 +6,7 @@
 
 
 ## Интересы
-Список того что я прочитал, посмотрел, послушал или поиграл в последние годы.
+Список того что я прочитал, послушал или поиграл в последние годы.
 
 
 ### 📚 Книги
@@ -96,33 +96,36 @@
 ¯\\\_(ツ)_/¯
 
 #### 2020 год
-* 🎮 [Slay the Spire](https://store.steampowered.com/app/646570/Slay_the_Spire/) _(Xbox One S, 9 ч.)_
-* 🎮 [State of Decay 2](https://store.steampowered.com/app/495420/State_of_Decay_2/) _(Xbox One S, 72 ч.)_
-* 🎮 [The Outer Worlds](https://store.steampowered.com/app/578650/The_Outer_Worlds/) _(Xbox One S, 54 ч.)_
-* 🎮 [Grand Theft Auto V](https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/) _(Xbox One S, 47 ч.)_
-* 🎮 [MudRunner](https://store.steampowered.com/app/675010/MudRunner/) _(Xbox One S, 22 ч.)_
+* 🎮 [Slay the Spire](https://store.steampowered.com/app/646570/Slay_the_Spire/) _(XBOX One S, 9 ч.)_
+* 🎮 [State of Decay 2](https://store.steampowered.com/app/495420/State_of_Decay_2/) _(XBOX One S, 72 ч.)_
+* 🎮 [The Outer Worlds](https://store.steampowered.com/app/578650/The_Outer_Worlds/) _(XBOX One S, 54 ч.)_
+* 🎮 [Grand Theft Auto V](https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/) _(XBOX One S, 47 ч.)_
+* 🎮 [MudRunner](https://store.steampowered.com/app/675010/MudRunner/) _(XBOX One S, 22 ч.)_
 
 #### 2021 год
-* 🎮 [South Park: The Fractured But Whole](https://store.steampowered.com/app/488790/South_Park_The_Fractured_But_Whole/) _(Xbox One S, 39 ч.)_
-* 🎮 [Wasteland 3](https://store.steampowered.com/app/719040/Wasteland_3/) _(Xbox One S, 115 ч.)_
+* 🎮 [South Park: The Fractured But Whole](https://store.steampowered.com/app/488790/South_Park_The_Fractured_But_Whole/) _(XBOX One S, 39 ч.)_
+* 🎮 [Wasteland 3](https://store.steampowered.com/app/719040/Wasteland_3/) _(XBOX One S, 115 ч.)_
 
 #### 2022 год
-* 🎮 [Halo 5: Guardians](https://www.xbox.com/ru-RU/games/store/halo-5-guardians/BRRC2BP0G9P0/0001) _(Xbox Series S, 13 ч.)_
-* 🎮 [Kill It With Fire](https://store.steampowered.com/app/1179210/Kill_It_With_Fire/) _(Xbox Series S, 9 ч.)_
-* 🎮 [Watch_Dogs2](https://store.steampowered.com/app/447040/Watch_Dogs_2/) _(Xbox Series S, 30 ч.)_
-* 🎮 [Marvel's Guardians of the Galaxy](https://store.steampowered.com/app/1088850/Marvels_Guardians_of_the_Galaxy/) _(Xbox Series S, 21 ч.)_
+* 🎮 [Halo 5: Guardians](https://www.XBOX.com/ru-RU/games/store/halo-5-guardians/BRRC2BP0G9P0/0001) _(XBOX Series S, 13 ч.)_
+* 🎮 [Kill It With Fire](https://store.steampowered.com/app/1179210/Kill_It_With_Fire/) _(XBOX Series S, 9 ч.)_
+* 🎮 [Watch_Dogs2](https://store.steampowered.com/app/447040/Watch_Dogs_2/) _(XBOX Series S, 30 ч.)_
+* 🎮 [Marvel's Guardians of the Galaxy](https://store.steampowered.com/app/1088850/Marvels_Guardians_of_the_Galaxy/) _(XBOX Series S, 21 ч.)_
 
 #### 2023 год
-* 🎮 [Destroy All Humans! 2 - Reprobed](https://store.steampowered.com/app/1266700/Destroy_All_Humans_2__Reprobed/) _(Xbox Series S, 21 ч.)_
-* 🎮 [Atomic Heart](https://www.xbox.com/ru-RU/games/store/atomic-heart/9p731z4bbct3) _(Xbox Series S, 21 ч.)_
-* 🎮 [Prey](https://store.steampowered.com/app/480490/Prey/) _(Xbox Series S, 38 ч.)_
-* 🎮 [Teenage Mutant Ninja Turtles: Shredder's Revenge](https://store.steampowered.com/app/1361510/Teenage_Mutant_Ninja_Turtles_Shredders_Revenge/) _(Xbox Series S, 5 ч.)_
-* 🎮 [Goat Simulator 3](https://store.steampowered.com/app/850190/Goat_Simulator_3/) _(Xbox Series S, 33 ч., 🥇)_
+* 🎮 [Destroy All Humans! 2 - Reprobed](https://store.steampowered.com/app/1266700/Destroy_All_Humans_2__Reprobed/) _(XBOX Series S, 21 ч.)_
+* 🎮 [Atomic Heart](https://www.XBOX.com/ru-RU/games/store/atomic-heart/9p731z4bbct3) _(XBOX Series S, 21 ч.)_
+* 🎮 [Prey](https://store.steampowered.com/app/480490/Prey/) _(XBOX Series S, 38 ч.)_
+* 🎮 [Teenage Mutant Ninja Turtles: Shredder's Revenge](https://store.steampowered.com/app/1361510/Teenage_Mutant_Ninja_Turtles_Shredders_Revenge/) _(XBOX Series S, 5 ч.)_
+* 🎮 [Goat Simulator 3](https://store.steampowered.com/app/850190/Goat_Simulator_3/) _(XBOX Series S, 33 ч., 🥇)_
 
 #### 2024 год
-* 🎮 [The Stanley Parable: Ultra Deluxe](https://store.steampowered.com/app/1703340/The_Stanley_Parable_Ultra_Deluxe/) _(Xbox Series S, 36 ч., 🥇)_
-* 🎮 [Fallout 76](https://store.steampowered.com/app/1151340/Fallout_76/) _(Xbox Series S, 888 ч.)_
+* 🎮 [The Stanley Parable: Ultra Deluxe](https://store.steampowered.com/app/1703340/The_Stanley_Parable_Ultra_Deluxe/) _(XBOX Series S, 36 ч., 🥇)_
+* 🎮 [Fallout 76](https://store.steampowered.com/app/1151340/Fallout_76/) _(XBOX Series S, 888 ч.)_
 * 💻 [Satellite Odyssey: Prologue](https://store.steampowered.com/app/2579270/Satellite_Odyssey_Prologue/) _(2 ч., 🥇)_
-* 🎮 [Far Cry: New Dawn](https://store.steampowered.com/app/939960/Far_Cry_New_Dawn/) _(Xbox Series S, 37 ч.)_
-* 🎮 [Inscryption](https://store.steampowered.com/app/1092790/Inscryption/) _(Xbox One S, 28 ч.)_
-* 🎮 [Donut County](https://store.steampowered.com/app/702670/Donut_County/) _(Xbox One S, 4 ч.)_
+* 🎮 [Far Cry: New Dawn](https://store.steampowered.com/app/939960/Far_Cry_New_Dawn/) _(XBOX Series S, 37 ч.)_
+* 🎮 [Inscryption](https://store.steampowered.com/app/1092790/Inscryption/) _(XBOX One S, 28 ч.)_
+* 🎮 [Donut County](https://store.steampowered.com/app/702670/Donut_County/) _(XBOX One S, 4 ч.)_
+
+#### 2025 год
+* 🎮 [We Happy Few](https://store.steampowered.com/app/320240/We_Happy_Few/) _(XBOX Series S, 64 ч.)_
