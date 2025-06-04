@@ -129,3 +129,4 @@
 
 #### 2025 год
 * 🎮 [We Happy Few](https://store.steampowered.com/app/320240/We_Happy_Few/) _(XBOX Series S, 64 ч.)_
+* 🎮 [Atomfall](https://store.steampowered.com/app/801800/Atomfall/) _(XBOX Series S, 31 ч.)_
