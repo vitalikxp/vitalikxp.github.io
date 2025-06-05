@@ -62,6 +62,9 @@
 * 📗 [Все эти миры](https://www.litres.ru/audiobook/dennis-teylor-30702511/vse-eti-miry-69171949/) _(Деннис Тейлор, 9 ч.)_
 * 📗 [Еще один великолепный МИФ](https://www.litres.ru/audiobook/robert-asprin/esche-odin-velikolepnyy-mif-19818325/) _(Роберт Асприн, 6 ч.)_
 
+#### 2025 год
+* 📕 [Как создавать истории](https://books.yandex.ru/audiobooks/M0zxxPFH) _(Наталья Адрианова, Светлана Яковлева, 8 ч.)_
+
 
 ### 🕹️ Видеоигры
 
