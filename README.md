@@ -88,6 +88,7 @@
 * 💻 [Saints Row IV](https://store.steampowered.com/app/206420/Saints_Row_IV/) _(31 ч.)_
 * 💻 [Mortal Kombat Komplete Edition](https://store.steampowered.com/app/237110/Mortal_Kombat_Komplete_Edition/) _(64 ч.)_
 * 💻 [Injustice: Gods Among Us Ultimate Edition](https://store.steampowered.com/app/242700/Injustice_Gods_Among_Us_Ultimate_Edition/) _(13 ч.)_
+* 💻 [Dying Light](https://store.steampowered.com/app/239140/Dying_Light/) _(106 ч.)_
 
 #### 2017 год
 * 💻 [Torchlight II](https://store.steampowered.com/app/200710/Torchlight_II/) _(77 ч.)_
@@ -133,3 +134,4 @@
 #### 2025 год
 * 🎮 [We Happy Few](https://store.steampowered.com/app/320240/We_Happy_Few/) _(XBOX Series S, 64 ч.)_
 * 🎮 [Atomfall](https://store.steampowered.com/app/801800/Atomfall/) _(XBOX Series S, 31 ч.)_
+* 🎮 [Atomfall: Story Expansion Pack Wicked Isle](https://store.steampowered.com/app/3047140/Atomfall_Story_Expansion_Pack_Wicked_Isle/) _(XBOX Series S, 9 ч.)_
