@@ -135,3 +135,4 @@
 * 🎮 [We Happy Few](https://store.steampowered.com/app/320240/We_Happy_Few/) _(XBOX Series S, 64 ч.)_
 * 🎮 [Atomfall](https://store.steampowered.com/app/801800/Atomfall/) _(XBOX Series S, 31 ч.)_
 * 🎮 [Atomfall: Story Expansion Pack Wicked Isle](https://store.steampowered.com/app/3047140/Atomfall_Story_Expansion_Pack_Wicked_Isle/) _(XBOX Series S, 9 ч.)_
+* 🎮 [Dishonored](https://store.steampowered.com/app/217980/Dishonored/) _(XBOX Series S, ?? ч.)_
