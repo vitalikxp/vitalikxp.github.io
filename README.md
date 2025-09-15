@@ -136,3 +136,4 @@
 * 🎮 [Atomfall](https://store.steampowered.com/app/801800/Atomfall/) _(XBOX Series S, 31 ч.)_
 * 🎮 [Atomfall: Story Expansion Pack Wicked Isle](https://store.steampowered.com/app/3047140/Atomfall_Story_Expansion_Pack_Wicked_Isle/) _(XBOX Series S, 9 ч.)_
 * 🎮 [Dishonored](https://store.steampowered.com/app/217980/Dishonored/) _(XBOX Series S, ?? ч.)_
+* 🎮 [Costume Quest](https://store.steampowered.com/app/115100/Costume_Quest/) _(XBOX 360, ?? ч.)_
