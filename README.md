@@ -132,3 +132,4 @@
 * 🎮 [Dishonored](https://store.steampowered.com/app/217980/Dishonored/) _(XBOX Series S, ?? ч.)_
 * 🎮 [Costume Quest](https://store.steampowered.com/app/115100/Costume_Quest/) _(XBOX 360, ?? ч.)_
 * 🎮 [The Outer Worlds 2](https://store.steampowered.com/app/1449110/The_Outer_Worlds_2/) _(XBOX Series S, 82 ч.)_
+* 🎮 [CloverPit](https://store.steampowered.com/app/3314790/CloverPit/) _(XBOX Series S, 13 ч.)_
