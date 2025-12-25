@@ -58,6 +58,7 @@
 * 📕 [Unity в действии](https://www.piter.com/collection/programmirovanie-igr/product/unity-v-deystvii-multiplatformennaya-razrabotka-na-c-3-e-mezhd-izdanie) _(Джозеф Хокинг, 448 стр.)_
 * 🔊 [Как создавать истории](https://books.yandex.ru/audiobooks/M0zxxPFH) _(Наталья Адрианова, Светлана Яковлева, аудио, 8 ч.)_
 * 🔊 [Понедельник начинается в субботу](https://books.yandex.ru/audiobooks/zJ2cLCmE) _(Аркадий и Борис Стругацкие, аудио, 9 ч.)_
+* 📕 [Создание микросервисов](https://www.piter.com/collection/all/product/sozdanie-mikroservisov-2-e-izdanie) _(Сэм Ньюмен, 624 стр.)_
 
 
 ### 🕹️ Видеоигры
