@@ -16,6 +16,7 @@
 * 📕 [Создание микросервисов](https://www.piter.com/collection/all/product/sozdanie-mikroservisov-2-e-izdanie) _(Сэм Ньюмен, 624 стр.)_
 * 🔊 [Творцы заклинаний](https://www.litres.ru/audiobook/terri-pratchett/tvorcy-zaklinaniy-23589243/) _(Терри Пратчетт, аудио, 8 ч.)_
 * 📕 [Level Up! Руководство по созданию классных видеоигр](https://bombora.ru/book/87807/) _(Скотт Роджерс, 528 стр.)_
+* 🔊 [Геймдизайн. Как создать игру, в которую будут играть все (саммари)](https://books.yandex.ru/audiobooks/Jwv05plZ) _(Джесси Шелл, Александра Журавлева, аудио, 6 ч.)_
 
 ### 🕹️ Видеоигры
 * 🎮 [We Happy Few](https://store.steampowered.com/app/320240/We_Happy_Few/) _(XBOX Series S, 64 ч.)_
