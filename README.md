@@ -30,8 +30,6 @@
 ## 2024 год
 
 ### 📚 Книги
-* 📕 [Грокаем алгоритмы](https://www.piter.com/product/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyuschih-2) _(Адитья Бхаргава, 288 стр.)_
-* 📕 [Грокаем стриминг](https://www.piter.com/collection/all/product/grokaem-striming) _(Джош Фишер, Нин Ван, 288 стр.)_
 * 📕 [Symfony 6: Быстрый старт](https://symfony.com/doc/6.4/the-fast-track/ru/index.html) _(Fabien Potencier, 358 стр.)_
 * 🔊 [Мы – Легион. Мы – Боб](https://www.litres.ru/audiobook/dennis-teylor-30702511/my-legion-my-bob-66018881/) _(Деннис Тейлор, аудио, 11 ч.)_
 * 🔊 [Потому что нас много](https://www.litres.ru/audiobook/dennis-teylor-30702511/potomu-chto-nas-mnogo-68662321/) _(Деннис Тейлор, аудио, 9 ч.)_
@@ -50,6 +48,8 @@
 ## 2023 год
 
 ### 📚 Книги
+* 📕 [Грокаем стриминг](https://www.piter.com/collection/all/product/grokaem-striming) _(Джош Фишер, Нин Ван, 288 стр.)_
+* 📕 [Грокаем алгоритмы](https://www.piter.com/product/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyuschih-2) _(Адитья Бхаргава, 288 стр.)_
 * 🔊 [Fallout. Хроники создания легендарной саги](https://www.litres.ru/audiobook/ervan-lafleriel/fallout-hroniki-sozdaniya-legendarnoy-sagi-69088090/) _(Эрван Лафлериэль, аудио, 8 ч.)_
 * 🔊 [Сказки роботов](https://www.litres.ru/audiobook/stanislav-lem/skazki-robotov-23887885/?art=23887885) _(Станислав Лем, аудио, 5 ч.)_
 * 🔊 [Цвет волшебства](https://www.litres.ru/audiobook/terri-pratchett/cvet-volshebstva-23578275/) _(Терри Пратчетт, аудио, 8 ч.)_
