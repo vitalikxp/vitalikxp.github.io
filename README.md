@@ -17,6 +17,7 @@
 * 🔊 [Творцы заклинаний](https://www.litres.ru/audiobook/terri-pratchett/tvorcy-zaklinaniy-23589243/) _(Терри Пратчетт, аудио, 8 ч.)_
 * 📕 [Level Up! Руководство по созданию классных видеоигр](https://bombora.ru/book/87807/) _(Скотт Роджерс, 528 стр.)_
 * 🔊 [Геймдизайн. Как создать игру, в которую будут играть все (саммари)](https://books.yandex.ru/audiobooks/Jwv05plZ) _(Джесси Шелл, Александра Журавлева, аудио, 6 ч.)_
+* 📕 [Сделай видеоигру один и не свихнись](https://ast.ru/book/sdelay-videoigru-odin-i-ne-svikhnis-866166/) _(Слава Грис, 285 стр.)_
 
 ### 🕹️ Видеоигры
 * 🎮 [We Happy Few](https://store.steampowered.com/app/320240/We_Happy_Few/) _(XBOX Series S, 64 ч.)_
