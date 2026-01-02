@@ -5,6 +5,12 @@
 * 🦫 Bitrix
 
 
+## 2026 год
+
+### 📚 Книги
+* 📕 [Спасите котика!](https://www.mann-ivanov-ferber.ru/catalog/product/spasite-kotika/) _(Блейк Снайдер, 302 стр.)_
+
+
 ## 2025 год
 
 ### 📚 Книги
