@@ -10,6 +10,9 @@
 ### 📚 Книги
 * 📕 [Спасите котика!](https://www.mann-ivanov-ferber.ru/catalog/product/spasite-kotika/) _(Блейк Снайдер, 302 стр.)_
 
+### 🕹️ Видеоигры
+* 🎮 [Tropico 5](https://store.steampowered.com/app/245620/Tropico_5/) _(XBOX Series S, ?? ч.)_
+
 
 ## 2025 год
 
