@@ -8,7 +8,8 @@
 ## 2026 год
 
 ### 📚 Книги
-* 📕 [Спасите котика!](https://www.mann-ivanov-ferber.ru/catalog/product/spasite-kotika/) _(Блейк Снайдер, 302 стр.)_
+* 📙 [Спасите котика!](https://www.mann-ivanov-ferber.ru/catalog/product/spasite-kotika/) _(Блейк Снайдер, 302 стр.)_
+* 📕 [Язык программирования Go](https://www.williamspublishing.com/books/978-5-8459-2051-5.html) _(Алан Донован, Брайан Керниган, 424 стр.)_
 
 ### 🕹️ Видеоигры
 * 🎮 [Tropico 5](https://store.steampowered.com/app/245620/Tropico_5/) _(XBOX Series S, ?? ч.)_
@@ -25,9 +26,9 @@
 * 🔊 [Понедельник начинается в субботу](https://books.yandex.ru/audiobooks/zJ2cLCmE) _(Аркадий и Борис Стругацкие, аудио, 9 ч.)_
 * 📕 [Создание микросервисов](https://www.piter.com/collection/all/product/sozdanie-mikroservisov-2-e-izdanie) _(Сэм Ньюмен, 624 стр.)_
 * 🔊 [Творцы заклинаний](https://www.litres.ru/audiobook/terri-pratchett/tvorcy-zaklinaniy-23589243/) _(Терри Пратчетт, аудио, 8 ч.)_
-* 📕 [Level Up! Руководство по созданию классных видеоигр](https://bombora.ru/book/87807/) _(Скотт Роджерс, 528 стр.)_
+* 📙 [Level Up! Руководство по созданию классных видеоигр](https://bombora.ru/book/87807/) _(Скотт Роджерс, 528 стр.)_
 * 🔊 [Геймдизайн. Как создать игру, в которую будут играть все (саммари)](https://books.yandex.ru/audiobooks/Jwv05plZ) _(Джесси Шелл, Александра Журавлева, аудио, 6 ч.)_
-* 📕 [Сделай видеоигру один и не свихнись](https://ast.ru/book/sdelay-videoigru-odin-i-ne-svikhnis-866166/) _(Слава Грис, 285 стр.)_
+* 📙 [Сделай видеоигру один и не свихнись](https://ast.ru/book/sdelay-videoigru-odin-i-ne-svikhnis-866166/) _(Слава Грис, 285 стр.)_
 
 ### 🕹️ Видеоигры
 * 🎮 [We Happy Few](https://store.steampowered.com/app/320240/We_Happy_Few/) _(XBOX Series S, 64 ч.)_
