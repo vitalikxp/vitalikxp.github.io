@@ -14,6 +14,7 @@
 ### 🕹️ Видеоигры
 * 🎮 [Tropico 5](https://store.steampowered.com/app/245620/Tropico_5/) _(XBOX Series S, ?? ч.)_
 * 🎮 [Carmageddon: Max Damage](https://store.steampowered.com/app/505170/Carmageddon_Max_Damage/) _(XBOX Series S, 29 ч.)_
+* 🎮 [FINAL FANTASY](https://store.steampowered.com/app/1173770/FINAL_FANTASY/) _(XBOX Series S, 20 ч.)_
 
 
 ## 2025 год
