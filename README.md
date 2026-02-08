@@ -11,6 +11,7 @@
 * 📙 [Спасите котика!](https://www.mann-ivanov-ferber.ru/catalog/product/spasite-kotika/) _(Блейк Снайдер, 302 стр.)_
 * 📕 [Язык программирования Go](https://www.williamspublishing.com/books/978-5-8459-2051-5.html) _(Алан Донован, Брайан Керниган, 424 стр.)_
 * 📙 [Ошибки разработчиков видеоигр. От идеи до провала](https://ast.ru/book/oshibki-razrabotchikov-videoigr-ot-idei-do-provala-871669/) _(Слава Грис, 315 стр.)_
+* 📕 [Облачный Go. Создание надёжных сервисов в ненадёжных окружениях](https://dmkpress.com/catalog/computer/os/978-5-97060-965-1/) _(Мэтью Титмус, 409 стр.)_
 
 ### 🕹️ Видеоигры
 * 🎮 [Tropico 5](https://store.steampowered.com/app/245620/Tropico_5/) _(XBOX Series S, ?? ч.)_
