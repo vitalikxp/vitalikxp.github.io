@@ -18,6 +18,7 @@
 * 🎮 [Carmageddon: Max Damage](https://store.steampowered.com/app/505170/Carmageddon_Max_Damage/) _(XBOX Series S, 29 ч.)_
 * 🎮 [FINAL FANTASY](https://store.steampowered.com/app/1173770/FINAL_FANTASY/) _(XBOX Series S, 20 ч.)_
 * 🎮 [Gas Station Simulator](https://store.steampowered.com/app/1149620/Gas_Station_Simulator/) _(XBOX Series S, 23 ч.)_
+* 🎮 [Wasteland 2: Director's Cut](https://store.steampowered.com/app/240760/Wasteland_2_Directors_Cut/) _(XBOX Series S, 110 ч.)_
 
 
 ## 2025 год
