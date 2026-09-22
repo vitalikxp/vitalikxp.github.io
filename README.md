@@ -19,7 +19,8 @@
 * 🎮 [FINAL FANTASY](https://store.steampowered.com/app/1173770/FINAL_FANTASY/) _(XBOX Series S, 20 ч.)_
 * 🎮 [Gas Station Simulator](https://store.steampowered.com/app/1149620/Gas_Station_Simulator/) _(XBOX Series S, 23 ч.)_
 * 🎮 [Wasteland 2: Director's Cut](https://store.steampowered.com/app/240760/Wasteland_2_Directors_Cut/) _(XBOX Series S, 119 ч.)_
-* 🎮 [Shelldiver](https://store.steampowered.com/app/3862670/Shelldiver/) _(XBOX One S, 7 ч.)_
+* 🎮 [Buckshot Roulette](https://store.steampowered.com/app/2835570/Buckshot_Roulette/) _(XBOX Series S, 4 ч.)_
+* 🎮 [Shelldiver](https://store.steampowered.com/app/3862670/Shelldiver/) _(XBOX One S, 7 ч., 🥇)_
 
 
 ## 2025 год
