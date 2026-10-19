@@ -13,6 +13,7 @@
 * 📙 [Ошибки разработчиков видеоигр. От идеи до провала](https://ast.ru/book/oshibki-razrabotchikov-videoigr-ot-idei-do-provala-871669/) _(Слава Грис, 315 стр.)_
 * 📕 [Облачный Go. Создание надёжных сервисов в ненадёжных окружениях](https://dmkpress.com/catalog/computer/os/978-5-97060-965-1/) _(Мэтью Титмус, 409 стр.)_
 * 📕 [Современный JavaScript для нетерпеливых](https://www.dmkpress.com/catalog/computer/web/978-5-97060-177-8/) _(Кэй Хорстман, 287 стр.)_
+* 📕 [GitHub Copilot. Программирование в паре с ИИ](https://www.piter.com/collection/all/product/github-copilot-programmirovanie-v-pare-s-ii) _(Брент Ластер, 304 стр.)_
 
 ### 🕹️ Видеоигры
 * 🎮 [Tropico 5](https://store.steampowered.com/app/245620/Tropico_5/) _(XBOX Series S, ?? ч.)_
